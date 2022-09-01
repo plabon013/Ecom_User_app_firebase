@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "369504087675",
+    "project_id": "fir-ecom-plabon",
+    "storage_bucket": "fir-ecom-plabon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369504087675:android:338d80a541a00f61babcde",
+        "android_client_info": {
+          "package_name": "com.example.ecom_admin_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369504087675-ttoa2usljipfqsbvraej34t4c3dh1e7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaQIRlReUiE4G_pIFjsvu-NHSU7J3AaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369504087675-ttoa2usljipfqsbvraej34t4c3dh1e7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369504087675:android:61946e7c7e37743fbabcde",
+        "android_client_info": {
+          "package_name": "com.example.ecom_admin_batch5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369504087675-ttoa2usljipfqsbvraej34t4c3dh1e7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaQIRlReUiE4G_pIFjsvu-NHSU7J3AaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369504087675-ttoa2usljipfqsbvraej34t4c3dh1e7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369504087675:android:0694f86d6c6576a5babcde",
+        "android_client_info": {
+          "package_name": "com.example.ecom_user_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369504087675-ttoa2usljipfqsbvraej34t4c3dh1e7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaQIRlReUiE4G_pIFjsvu-NHSU7J3AaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369504087675-ttoa2usljipfqsbvraej34t4c3dh1e7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
